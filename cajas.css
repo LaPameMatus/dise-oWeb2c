@@ -1,0 +1,39 @@
+img{
+    width: 50%;
+    height: 50%;
+}
+
+.cajaBody{
+    background: rgb(139,139,240);
+    background: linear-gradient(329deg, rgba(139,139,240,1) 3%, rgba(158,79,214,1) 16%, rgba(193,27,158,1) 21%, rgba(6,165,8,1) 39%, rgba(171,144,6,1) 53%, rgba(189,88,5,1) 84%, rgba(255,0,86,1) 100%);
+}
+.contenedor1{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+.imagen{
+    background-image: url(./img/img2.png);
+}
+.propiedades{
+    margin: 25px;
+    padding: 25px;
+    border:30px;
+    background-color: black;
+}
+.propiedades1{
+    margin: 25px;
+    padding: 25px;
+    border:30px;
+    background-color: rgb(252, 5, 5);
+}
+.propiedades2{
+    margin: 25px;
+    padding: 25px;
+    border-radius:100% 0% 25% 75% / 79% 0% 100% 21% ;
+    background-color: rgb(4, 252, 91);
+}
+li{
+    color:aliceblue;
+}
+
